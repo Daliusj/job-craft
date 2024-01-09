@@ -8,7 +8,7 @@ To install the project, clone the repository and install the required dependenci
 git clone [Your Repository URL]
 cd [Repository Name]
 pip install -r requirements.txt
-
+```
 ## JOBCRAFT (backend)
 
 **JobCraft** is a comprehensive web scraping program for job listings.
@@ -74,7 +74,3 @@ streamlit run Home.py
 ```
 
 This command will start the Streamlit server and the JobCraft Insights interface will be accessible in your web browser.
-
-
-```
-
