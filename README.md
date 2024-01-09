@@ -23,7 +23,7 @@ pip install -r requirements.txt
 #### Usage
 To run the script, execute it from the command line with the desired action:
 ```bash
-python script_name.py update
+python jobcraft.py update
 ```
 Optional argument:
 - `--full` or `-f`: Run a full update, overwriting existing data.
