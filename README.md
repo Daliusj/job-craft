@@ -6,7 +6,7 @@ The installation process outlined below is applicable for the entire JobCraft an
 To install the project, clone the repository and install the required dependencies:
 ```bash
 git clone "https://github.com/Daliusj/job-craft.git"
-cd [Repository Name]
+cd job-craft/
 pip install -r requirements.txt
 ```
 ## JOBCRAFT (backend)
