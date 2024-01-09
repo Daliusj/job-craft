@@ -5,7 +5,7 @@
 The installation process outlined below is applicable for the entire JobCraft and JobCraft Insights project.
 To install the project, clone the repository and install the required dependencies:
 ```bash
-git clone [Your Repository URL]
+git clone "https://github.com/Daliusj/job-craft.git"
 cd [Repository Name]
 pip install -r requirements.txt
 ```
