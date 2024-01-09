@@ -1,0 +1,173 @@
+HTML
+CSS
+JavaScript
+React
+Angular
+Vue
+SASS
+SCSS
+Bootstrap
+Tailwind
+RxJS
+Redux
+WebAssembly
+Node
+Python
+Django
+Flask
+Ruby
+Java
+Spring
+Kotlin
+Micronaut
+PHP
+Laravel
+Symfony
+Scala
+Play
+Express
+MySQL
+PostgreSQL
+Oracle
+SQL
+SQLite
+MongoDB
+Cassandra
+Redis
+Firebase
+CouchDB
+Neo4j
+DynamoDB
+Couchbase
+RethinkDB
+ArangoDB
+HBase
+MarkLogic
+Nginx
+Apache
+Tomcat
+IIS
+LiteSpeed
+Caddy
+RESTful
+GraphQL
+Express
+FastAPI
+Nest
+Falcor
+gRPC
+Swift
+SwiftUI
+UIKit
+Kotlin
+Android SDK
+Jetpack
+Flutter
+Dart
+React Native
+JavaScript
+TypeScript
+Xamarin
+C#
+Git
+Jenkins
+Travis CI
+CircleCI
+Docker
+Podman
+Kubernetes
+OpenShift
+GitLab CI
+GitHub
+Ansible
+Puppet
+Chef
+Terraform
+Packer
+Vagrant
+AWS
+Microsoft Azure
+Google Cloud Platform
+IBM Cloud
+DigitalOcean
+Heroku
+Alibaba Cloud
+Oracle Cloud
+Knative
+Cloud Foundry
+OpenStack
+Rackspace
+Python
+JavaScript
+Java
+C#
+Ruby
+Go
+Golang
+Rust
+Kotlin
+TypeScript
+Dart
+Scala
+Haskell
+Clojure
+Elixir
+Visual Studio Code
+IntelliJ IDEA
+Sublime Text
+Atom
+Vim
+Eclipse
+PyCharm
+NetBeans
+Brackets
+Slack
+Microsoft Teams
+Discord
+Jira
+Confluence
+Asana
+Trello
+Basecamp
+Miro
+ELK Stack
+Prometheus
+Grafana
+Splunk
+New Relic
+Datadog
+Graylog
+Nagios
+Zabbix
+JUnit
+Selenium
+Jest
+Pytest
+TestNG
+Cypress
+Appium
+Postman
+SoapUI
+OWASP tools
+SSL/TLS
+VPNs
+HashiCorp Vault
+Security Onion
+Wireshark
+Metasploit
+Snort
+Nessus
+Flask
+Express
+Django
+Ruby
+Spring Boot
+ASP.NET Core
+Laravel
+Vue
+React
+Angular
+Flask
+Express
+Django
+Ruby on Rails

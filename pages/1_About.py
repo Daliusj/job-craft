@@ -1,0 +1,40 @@
+import streamlit as st
+from frontend.frontend_config import (
+    PAGE_TITLE,
+    PAGE_ICON_PATH,
+    LAYOUT,
+    ABOUT_PAGE_TEXT_TITLE,
+    ABOUT_PAGE_TEXT_THANKS_MARKDOWN,
+    ABOUT_PAGE_TEXT_FEATURES_HEADER,
+    ABOUT_PAGE_TEXT_FEATURES_MARKDOWN,
+    ABOUT_PAGE_TEXT_FEEDBACK_HEADER,
+    ABOUT_PAGE_TEXT_FEEDBACK_MARKDOWN,
+    ABOUT_PAGE_TEXT_USAGE_HEADER,
+    ABOUT_PAGE_TEXT_USAGE_MARKDOWN,
+    ABOUT_PAGE_TEXT_WELCOME_MARKDOWN,
+    ABOUT_PAGE_TEXT_WHAT_IS_HEADER,
+    ABOUT_PAGE_TEXT_WHAT_IS_MARKDOWN,
+)
+
+
+def about_page():
+    st.set_page_config(
+        page_title=PAGE_TITLE,
+        page_icon=PAGE_ICON_PATH,
+        layout=LAYOUT,
+    )
+    st.title(ABOUT_PAGE_TEXT_TITLE)
+    st.markdown(ABOUT_PAGE_TEXT_WELCOME_MARKDOWN)
+    st.header(ABOUT_PAGE_TEXT_WHAT_IS_HEADER)
+    st.markdown(ABOUT_PAGE_TEXT_WHAT_IS_MARKDOWN)
+    st.header(ABOUT_PAGE_TEXT_FEATURES_HEADER)
+    st.markdown(ABOUT_PAGE_TEXT_FEATURES_MARKDOWN)
+    st.header(ABOUT_PAGE_TEXT_USAGE_HEADER)
+    st.markdown(ABOUT_PAGE_TEXT_USAGE_MARKDOWN)
+    st.header(ABOUT_PAGE_TEXT_FEEDBACK_HEADER)
+    st.markdown(ABOUT_PAGE_TEXT_FEEDBACK_MARKDOWN)
+    st.markdown(ABOUT_PAGE_TEXT_THANKS_MARKDOWN)
+
+
+if __name__ == "__main__":
+    about_page()
